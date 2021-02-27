@@ -1,0 +1,7 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"2n3906 PNP","TRANS PNP 40V 0.2A SOT-23","Q1, Q2, Q9, Q12, Q14, Q15, Q16, Q17, Q18","SOT95P240X110-3N","MMBT3906","9"
+"2n3904 NPN","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r","Q3, Q4, Q5, Q6, Q7, Q8, Q10, Q11, Q13, Q19, Q20","SOT95P240X110-3N","MMBT3904","11"
+"4k7","VISHAY - CRCW08054K70FKEA - Resistencia SMD de Tipo Chip, Película Gruesa, 0805 [Métrica 2012], 4.7 kohm, Serie CRCW, 150 V","R1, R3, R4, R6, R8, R9, R10, R11, R12, R15","R0805","CRCW08054K70FKEA","10"
+"1k","Res Thick Film 0805 1K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD Automotive T/R","R2, R5, R14","R0805","CRCW08051K00FKEA","3"
+"10k","VISHAY - CRCW080510K0FKEA - SMD Chip Resistor, 0805 [2012 Metric], 10 kohm, CRCW e3 Series, 150 V, Thick Film, 125 mW","R7, R13","R0805","CRCW080510K0FKEA","2"

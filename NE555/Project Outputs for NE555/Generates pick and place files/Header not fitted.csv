@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+C:\Users\user\REAL DATA\Nerdprojekte\altium\NE555\NE555\Project Outputs for NE555\Generates pick and place files\Header not fitted.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13.02.21
+Time:       10:51
+Revision:   Not in VersionControl
+Variant:    Header not fitted
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R15","4k7","TopLayer","R0805","1712.599","1476.378","360","VISHAY - CRCW08054K70FKEA - Resistencia SMD de Tipo Chip, Película Gruesa, 0805 [Métrica 2012], 4.7 kohm, Serie CRCW, 150 V"
+"R14","1k","TopLayer","R0805","236.220","688.976","90","Res Thick Film 0805 1K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD Automotive T/R"
+"R13","10k","TopLayer","R0805","2105.315","1259.842","180","VISHAY - CRCW080510K0FKEA - SMD Chip Resistor, 0805 [2012 Metric], 10 kohm, CRCW e3 Series, 150 V, Thick Film, 125 mW"
+"R12","4k7","TopLayer","R0805","1318.898","254.921","90","VISHAY - CRCW08054K70FKEA - Resistencia SMD de Tipo Chip, Película Gruesa, 0805 [Métrica 2012], 4.7 kohm, Serie CRCW, 150 V"
+"R11","4k7","TopLayer","R0805","433.071","413.386","180","VISHAY - CRCW08054K70FKEA - Resistencia SMD de Tipo Chip, Película Gruesa, 0805 [Métrica 2012], 4.7 kohm, Serie CRCW, 150 V"
+"R10","4k7","TopLayer","R0805","433.071","620.079","360","VISHAY - CRCW08054K70FKEA - Resistencia SMD de Tipo Chip, Película Gruesa, 0805 [Métrica 2012], 4.7 kohm, Serie CRCW, 150 V"
+"R9","4k7","TopLayer","R0805","1033.465","492.126","180","VISHAY - CRCW08054K70FKEA - Resistencia SMD de Tipo Chip, Película Gruesa, 0805 [Métrica 2012], 4.7 kohm, Serie CRCW, 150 V"
+"R8","4k7","TopLayer","R0805","1534.449","1476.378","360","VISHAY - CRCW08054K70FKEA - Resistencia SMD de Tipo Chip, Película Gruesa, 0805 [Métrica 2012], 4.7 kohm, Serie CRCW, 150 V"
+"R7","10k","TopLayer","R0805","866.142","1209.646","90","VISHAY - CRCW080510K0FKEA - SMD Chip Resistor, 0805 [2012 Metric], 10 kohm, CRCW e3 Series, 150 V, Thick Film, 125 mW"
+"R6","4k7","TopLayer","R0805","620.079","265.748","180","VISHAY - CRCW08054K70FKEA - Resistencia SMD de Tipo Chip, Película Gruesa, 0805 [Métrica 2012], 4.7 kohm, Serie CRCW, 150 V"
+"R5","1k","TopLayer","R0805","974.409","255.905","270","Res Thick Film 0805 1K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD Automotive T/R"
+"R4","4k7","TopLayer","R0805","629.922","472.441","360","VISHAY - CRCW08054K70FKEA - Resistencia SMD de Tipo Chip, Película Gruesa, 0805 [Métrica 2012], 4.7 kohm, Serie CRCW, 150 V"
+"R3","4k7","TopLayer","R0805","797.244","276.575","270","VISHAY - CRCW08054K70FKEA - Resistencia SMD de Tipo Chip, Película Gruesa, 0805 [Métrica 2012], 4.7 kohm, Serie CRCW, 150 V"
+"R2","1k","TopLayer","R0805","629.921","679.134","180","Res Thick Film 0805 1K Ohm 1% 0.125W(1/8W) ±100ppm/C Pad SMD Automotive T/R"
+"R1","4k7","TopLayer","R0805","1348.425","1476.378","360","VISHAY - CRCW08054K70FKEA - Resistencia SMD de Tipo Chip, Película Gruesa, 0805 [Métrica 2012], 4.7 kohm, Serie CRCW, 150 V"
+"Q20","2n3904 NPN","TopLayer","SOT95P240X110-3N","2312.992","255.905","270","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r"
+"Q19","2n3904 NPN","TopLayer","SOT95P240X110-3N","2303.150","1387.795","270","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r"
+"Q18","2n3906 PNP","TopLayer","SOT95P240X110-3N","236.221","423.228","360","TRANS PNP 40V 0.2A SOT-23"
+"Q17","2n3906 PNP","TopLayer","SOT95P240X110-3N","2096.457","511.811","180","TRANS PNP 40V 0.2A SOT-23"
+"Q16","2n3906 PNP","TopLayer","SOT95P240X110-3N","2096.457","1496.063","90","TRANS PNP 40V 0.2A SOT-23"
+"Q15","2n3906 PNP","TopLayer","SOT95P240X110-3N","2312.992","511.811","360","TRANS PNP 40V 0.2A SOT-23"
+"Q14","2n3906 PNP","TopLayer","SOT95P240X110-3N","2106.299","255.905","360","TRANS PNP 40V 0.2A SOT-23"
+"Q13","2n3904 NPN","TopLayer","SOT95P240X110-3N","1417.323","521.653","270","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r"
+"Q12","2n3906 PNP","TopLayer","SOT95P240X110-3N","1761.811","255.905","360","TRANS PNP 40V 0.2A SOT-23"
+"Q11","2n3904 NPN","TopLayer","SOT95P240X110-3N","1141.732","255.905","180","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r"
+"Q10","2n3904 NPN","TopLayer","SOT95P240X110-3N","826.772","531.496","180","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r"
+"Q9","2n3906 PNP","TopLayer","SOT95P240X110-3N","255.905","1476.378","180","TRANS PNP 40V 0.2A SOT-23"
+"Q8","2n3904 NPN","TopLayer","SOT95P240X110-3N","629.921","1476.378","90","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r"
+"Q7","2n3904 NPN","TopLayer","SOT95P240X110-3N","797.244","1476.378","90","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r"
+"Q6","2n3904 NPN","TopLayer","SOT95P240X110-3N","1761.811","511.811","360","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r"
+"Q5","2n3904 NPN","TopLayer","SOT95P240X110-3N","521.653","1220.472","180","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r"
+"Q4","2n3904 NPN","TopLayer","SOT95P240X110-3N","708.661","1220.472","180","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r"
+"Q3","2n3904 NPN","TopLayer","SOT95P240X110-3N","1230.315","521.654","360","Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r Trans Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r"
+"Q2","2n3906 PNP","TopLayer","SOT95P240X110-3N","974.410","1476.378","360","TRANS PNP 40V 0.2A SOT-23"
+"Q1","2n3906 PNP","TopLayer","SOT95P240X110-3N","442.913","1476.378","270","TRANS PNP 40V 0.2A SOT-23"
